@@ -1,0 +1,16 @@
+/* SCSS HEX */
+Primary_1: #efeeea;
+Primary_2: #808080;
+Accent: #ffd952;
+Background: #111111;
+Background_light: #181818;
+Background_input: #202020;
+Border: #1c1c1c;
+Orange: #ffae51;
+Green: #89ff51;
+Blue: #52ffb7;
+Dark_blue: #51e0fe;
+Pink: #ff52e2;
+
+
+lorem
